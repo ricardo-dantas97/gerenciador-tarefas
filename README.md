@@ -1,2 +1,2 @@
-# gerenciador-taregas
+# gerenciador-tarefas
 Programa para gerenciamento de tarefas
