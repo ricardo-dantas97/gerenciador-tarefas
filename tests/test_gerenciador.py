@@ -27,8 +27,8 @@ def test_quando_listar_tarefas_a_tarefa_deve_retornada_deve_possuir_id():
         {
             "id": 1,
             "titulo": "Arrumar a cama",
-            "descricao": "Arrumar a cama ao levantar de manhã e manter arrumada durante o dia",
-            "estado": "Finalizado"
+            "descricao": "Arrumar a cama ao levantar",
+            "estado": "Finalizado",
         }
     )
     cliente = TestClient(app)
